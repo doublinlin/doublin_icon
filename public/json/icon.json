@@ -1,0 +1,18 @@
+{
+    "icons" : [
+        { 
+            "DI_id" : "DI_001", 
+            "DI_category" : "1",
+            "DI_img" : "img/icon/magnifier.svg", 
+            "DI_tw" : "放大鏡", 
+            "DI_en" : "magnifier"
+        },
+        { 
+            "DI_id" : "DI_002",
+            "DI_category" : "2", 
+            "DI_img" : "https://static.vecteezy.com/system/resources/previews/000/440/524/non_2x/question-mark-vector-icon.jpg", 
+            "DI_tw" : "陸續新增", 
+            "DI_en" : "To be continued"
+        }
+    ]
+}
